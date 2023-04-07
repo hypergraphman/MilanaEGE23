@@ -7,4 +7,3 @@ for w in words:
     if 'KK' not in word and 'AA' not in word:
         s.add(word)
 print(len(s))
-print(k)
